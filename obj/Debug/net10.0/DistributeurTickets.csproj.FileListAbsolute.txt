@@ -1,0 +1,16 @@
+C:\Users\HP\Downloads\DistributeurTickets\DistributeurTickets\bin\Debug\net10.0\DistributeurTickets.exe
+C:\Users\HP\Downloads\DistributeurTickets\DistributeurTickets\bin\Debug\net10.0\DistributeurTickets.deps.json
+C:\Users\HP\Downloads\DistributeurTickets\DistributeurTickets\bin\Debug\net10.0\DistributeurTickets.runtimeconfig.json
+C:\Users\HP\Downloads\DistributeurTickets\DistributeurTickets\bin\Debug\net10.0\DistributeurTickets.runtimeconfig.dev.json
+C:\Users\HP\Downloads\DistributeurTickets\DistributeurTickets\bin\Debug\net10.0\DistributeurTickets.dll
+C:\Users\HP\Downloads\DistributeurTickets\DistributeurTickets\bin\Debug\net10.0\DistributeurTickets.pdb
+C:\Users\HP\Downloads\DistributeurTickets\DistributeurTickets\obj\Debug\net10.0\DistributeurTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Downloads\DistributeurTickets\DistributeurTickets\obj\Debug\net10.0\DistributeurTickets.AssemblyInfoInputs.cache
+C:\Users\HP\Downloads\DistributeurTickets\DistributeurTickets\obj\Debug\net10.0\DistributeurTickets.AssemblyInfo.cs
+C:\Users\HP\Downloads\DistributeurTickets\DistributeurTickets\obj\Debug\net10.0\DistributeurTickets.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\DistributeurTickets\DistributeurTickets\obj\Debug\net10.0\DistributeurTickets.dll
+C:\Users\HP\Downloads\DistributeurTickets\DistributeurTickets\obj\Debug\net10.0\refint\DistributeurTickets.dll
+C:\Users\HP\Downloads\DistributeurTickets\DistributeurTickets\obj\Debug\net10.0\DistributeurTickets.pdb
+C:\Users\HP\Downloads\DistributeurTickets\DistributeurTickets\obj\Debug\net10.0\DistributeurTickets.genruntimeconfig.cache
+C:\Users\HP\Downloads\DistributeurTickets\DistributeurTickets\obj\Debug\net10.0\ref\DistributeurTickets.dll
+C:\Users\HP\Downloads\DistributeurTickets\DistributeurTickets\obj\Debug\net10.0\Distribu.4FB78F40.Up2Date
